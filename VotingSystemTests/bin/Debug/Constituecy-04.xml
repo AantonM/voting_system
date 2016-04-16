@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Election>
+  <Constituency name="Durham">
+      <Candidate party="Green">
+          <Firstname>Charlie </Firstname>
+          <Lastname>McLean</Lastname>
+          <Votes>170</Votes>
+      </Candidate>
+      <Candidate party="Conservative">
+          <Firstname>Homer</Firstname>
+          <Lastname>Lang</Lastname>
+          <Votes>134</Votes>
+      </Candidate>
+      <Candidate party="Labour">
+          <Firstname>Jimmy </Firstname>
+          <Lastname>Dickerson</Lastname>
+          <Votes>92</Votes>
+      </Candidate>
+  </Constituency>
+</Election>

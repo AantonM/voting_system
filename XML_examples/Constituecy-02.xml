@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Election>
+  <Constituency name="Sunderland East">
+      <Candidate party="Liberal">
+        <Firstname>Ben</Firstname>
+        <Lastname>Philips</Lastname>
+        <Votes>214</Votes>
+      </Candidate>
+      <Candidate party="Green">
+          <Firstname>Jane</Firstname>
+          <Lastname>Smith</Lastname>
+          <Votes>200</Votes>
+      </Candidate>
+      <Candidate party="Conservative">
+          <Firstname>Adam</Firstname>
+          <Lastname>Conor</Lastname>
+          <Votes>134</Votes>
+      </Candidate>
+      <Candidate party="Labour">
+          <Firstname>Anth</Firstname>
+          <Lastname>Johnson</Lastname>
+          <Votes>204</Votes>
+      </Candidate>
+      <Candidate party="SNP">
+          <Firstname>Philip</Firstname>
+          <Lastname>Goodman</Lastname>
+          <Votes>312</Votes>
+      </Candidate>
+  </Constituency>
+</Election>

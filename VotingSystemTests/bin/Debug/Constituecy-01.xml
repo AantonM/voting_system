@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Election>
+  <Constituency name="Sunderland North">
+      <Candidate party="Conservative">
+          <Firstname>Fred</Firstname>
+          <Lastname>Bloggs</Lastname>
+          <Votes>135</Votes>
+      </Candidate>
+      <Candidate party="Green">
+          <Firstname>Jane</Firstname>
+          <Lastname>Smith</Lastname>
+          <Votes>200</Votes>
+      </Candidate>
+  </Constituency>
+</Election>

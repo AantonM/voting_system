@@ -1,0 +1,7 @@
+C:\Users\Anton\Desktop\VotingSystem\VotingSystemTests\obj\Debug\VotingSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\VotingSystem\VotingSystemTests\bin\Debug\VotingSystemTests.dll
+C:\Users\Anton\Desktop\VotingSystem\VotingSystemTests\bin\Debug\VotingSystemTests.pdb
+C:\Users\Anton\Desktop\VotingSystem\VotingSystemTests\bin\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\VotingSystem\VotingSystemTests\bin\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\VotingSystem\VotingSystemTests\obj\Debug\VotingSystemTests.dll
+C:\Users\Anton\Desktop\VotingSystem\VotingSystemTests\obj\Debug\VotingSystemTests.pdb

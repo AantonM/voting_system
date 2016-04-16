@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Election>
+  <Constituency name="Newcastle">
+      <Candidate party="Liberal">
+        <Firstname>Rob</Firstname>
+        <Lastname>Miles</Lastname>
+        <Votes>102</Votes>
+      </Candidate>
+      <Candidate party="Green">
+          <Firstname>Harry</Firstname>
+          <Lastname>Smith</Lastname>
+          <Votes>316</Votes>
+      </Candidate>
+      <Candidate party="SNP">
+          <Firstname>Christophers</Firstname>
+          <Lastname>Randolf</Lastname>
+          <Votes>170</Votes>
+      </Candidate>
+  </Constituency>
+</Election>

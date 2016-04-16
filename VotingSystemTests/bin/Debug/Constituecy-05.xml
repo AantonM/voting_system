@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Election>
+  <Constituency name="Sunderland West">
+      <Candidate party="Conservative">
+          <Firstname>John</Firstname>
+          <Lastname>Johnson</Lastname>
+          <Votes>170</Votes>
+      </Candidate>
+      <Candidate party="Green">
+          <Firstname>Dinies</Firstname>
+          <Lastname>Naidu</Lastname>
+          <Votes>251</Votes>
+      </Candidate>
+  </Constituency>
+</Election>

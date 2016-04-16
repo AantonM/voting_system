@@ -1,0 +1,54 @@
+C:\Users\Anton\Desktop\Voting2\CyclingAsymmetry\bin\Debug\VotingSystem.exe.config
+C:\Users\Anton\Desktop\Voting2\CyclingAsymmetry\bin\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\Voting2\CyclingAsymmetry\bin\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\Voting2\CyclingAsymmetry\obj\Debug\VotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Voting2\CyclingAsymmetry\obj\Debug\CyclingAsymmetry.FormsBasedUI.resources
+C:\Users\Anton\Desktop\Voting2\CyclingAsymmetry\obj\Debug\VotingSystem.Properties.Resources.resources
+C:\Users\Anton\Desktop\Voting2\CyclingAsymmetry\obj\Debug\VotingSystem.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\Voting2\CyclingAsymmetry\obj\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\Voting2\CyclingAsymmetry\obj\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\Voting2 - Copy\CyclingAsymmetry\bin\Debug\VotingSystem.exe.config
+C:\Users\Anton\Desktop\Voting2 - Copy\CyclingAsymmetry\obj\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\Voting2 - Copy\CyclingAsymmetry\obj\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\Voting2 - Copy\CyclingAsymmetry\bin\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\Voting2 - Copy\CyclingAsymmetry\bin\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\Voting2 - Copy\CyclingAsymmetry\obj\Debug\VotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Voting2 - Copy\CyclingAsymmetry\obj\Debug\VotingSystem.Properties.Resources.resources
+C:\Users\Anton\Desktop\Voting2 - Copy\CyclingAsymmetry\obj\Debug\VotingSystem.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\Voting2 - Copy\CyclingAsymmetry\obj\Debug\VotingSystem.FormsBasedUI.resources
+C:\Users\Anton\Desktop\Voting3\CyclingAsymmetry\bin\Debug\VotingSystem.exe.config
+C:\Users\Anton\Desktop\Voting3\CyclingAsymmetry\obj\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\Voting3\CyclingAsymmetry\obj\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\Voting3\CyclingAsymmetry\bin\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\Voting3\CyclingAsymmetry\bin\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\Voting3\CyclingAsymmetry\obj\Debug\VotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Voting3\CyclingAsymmetry\obj\Debug\VotingSystem.FormsBasedUI.resources
+C:\Users\Anton\Desktop\Voting3\CyclingAsymmetry\obj\Debug\VotingSystem.Properties.Resources.resources
+C:\Users\Anton\Desktop\Voting3\CyclingAsymmetry\obj\Debug\VotingSystem.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\VotingSystem\CyclingAsymmetry\bin\Debug\VotingSystem.exe.config
+C:\Users\Anton\Desktop\VotingSystem\CyclingAsymmetry\obj\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\VotingSystem\CyclingAsymmetry\obj\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\VotingSystem\CyclingAsymmetry\bin\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\VotingSystem\CyclingAsymmetry\bin\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\VotingSystem\CyclingAsymmetry\obj\Debug\VotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\VotingSystem\CyclingAsymmetry\obj\Debug\VotingSystem.FormsBasedUI.resources
+C:\Users\Anton\Desktop\VotingSystem\CyclingAsymmetry\obj\Debug\VotingSystem.Properties.Resources.resources
+C:\Users\Anton\Desktop\VotingSystem\CyclingAsymmetry\obj\Debug\VotingSystem.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\tasks\VotingSystem\bin\Debug\VotingSystem.exe.config
+C:\Users\Anton\Desktop\tasks\VotingSystem\bin\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\tasks\VotingSystem\bin\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\tasks\VotingSystem\obj\Debug\VotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\tasks\VotingSystem\obj\Debug\VotingSystem.FormsBasedUI.resources
+C:\Users\Anton\Desktop\tasks\VotingSystem\obj\Debug\VotingSystem.Properties.Resources.resources
+C:\Users\Anton\Desktop\tasks\VotingSystem\obj\Debug\VotingSystem.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\tasks\VotingSystem\obj\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\tasks\VotingSystem\obj\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe.config
+C:\Users\Anton\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe
+C:\Users\Anton\Desktop\VotingSystem\VotingSystem\bin\Debug\VotingSystem.pdb
+C:\Users\Anton\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.FormsBasedUI.resources
+C:\Users\Anton\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Properties.Resources.resources
+C:\Users\Anton\Desktop\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csproj.GenerateResource.Cache
